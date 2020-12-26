@@ -16,3 +16,5 @@ In this project, the possibility of detecting the position of license plate in a
 [3] https://github.com/theAIGuysCode
 
 [4] http://www.cvlibs.net/datasets/kitti/
+
+[5] https://github.com/tzutalin/labelImg
