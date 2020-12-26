@@ -4,6 +4,10 @@ In this project, the possibility of detecting the position of license plate in a
 
 ![](/result.png)
 
+## LiDAR sensor vs Camera sensor:
+![](/comparsion.png)
+
+
 ## Reference
 [1] https://github.com/balcilar/DenseDepthMap
 
