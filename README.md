@@ -11,10 +11,12 @@ In this project, the possibility of detecting the position of license plate in a
 ## Reference
 [1] https://github.com/balcilar/DenseDepthMap
 
-[2] https://github.com/AlexeyAB/darknet
+[2] https://github.com/BerensRWU/DenseMap
 
-[3] https://github.com/theAIGuysCode
+[3] https://github.com/AlexeyAB/darknet
 
-[4] http://www.cvlibs.net/datasets/kitti/
+[4] https://github.com/theAIGuysCode
 
-[5] https://github.com/tzutalin/labelImg
+[5] http://www.cvlibs.net/datasets/kitti/
+
+[6] https://github.com/tzutalin/labelImg
